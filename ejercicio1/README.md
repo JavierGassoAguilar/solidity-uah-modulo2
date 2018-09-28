@@ -21,5 +21,9 @@ Se va a minar durante 2 minutos con el comando `miner.start(2)`:
 
 En la imagen se muestra como se están minando los bloques. Además, el balance la cuenta ya tiene Ethers.
 
+A modo complementario, se ha interactuado con la consola para obtener información extra de la blockchain y sus módulos cargados:
+
+![Captura 4b](screenshots/screen004b.png "Captura 4b")
+
 ### Autor
 - Javier Gasso
